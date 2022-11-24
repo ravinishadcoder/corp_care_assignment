@@ -1,0 +1,16 @@
+.MiniChartBox{
+background-color: white;
+border-radius: 10px;
+padding: 20px;
+box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.miniHeading{
+  
+    font-size: 3rem;
+    font-weight: 800;
+}
+.sortDay{
+    justify-content: space-around;
+    font-weight: 600;
+    color: gray;
+}

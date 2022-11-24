@@ -1,0 +1,39 @@
+.incomeBtn{
+border: 1px solid black;
+width: 120px;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 35px;
+border-radius: 20px;
+color: white;
+background-color: black;
+}
+.monthBtn{
+
+width: 120px;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 35px;
+border-radius: 20px;
+color: black;
+background-color:white;
+box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.btnMainBox{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.AnalyticsBox{
+   border-radius: 5px;
+    width: 600px;
+    padding: 20px;
+    background-color: white;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+line{
+    stroke: white;
+}
